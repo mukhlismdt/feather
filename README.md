@@ -1,7 +1,5 @@
 # Feather
 
-*Read this in other languages: [English](https://github.com/qicosmos/feather/blob/master/README.en.md), [简体中文](https://github.com/qicosmos/feather/blob/master/README.md)*
-
 * [Introduction](#Introduction)
 * [How to build](#Build)
 * [Quick example](#Example)
