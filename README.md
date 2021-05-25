@@ -5,7 +5,6 @@
 * [Introduction](#Introduction)
 * [How to build](#Build)
 * [Quick example](#Example)
-* [Contact us](#Contact)
 
 # Introduction
 
