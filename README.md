@@ -220,5 +220,3 @@ How do we deal with **gzip**? Don't worry，we support it already. If you want t
 
 The framework will compress the response string for you. Comfy and sweet. :)
 
-I think you now know enough about requests and responses. If you want to know more, please ask me.
-
