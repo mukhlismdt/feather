@@ -20,7 +20,7 @@ Here is a presentation by Yu Qi on Feather from CppCon 2018: https://www.youtube
 
 **Components of Feather**
 
-https://github.com/qicosmos/feather/blob/master/framework.png
+(https://github.com/qicosmos/feather/blob/master/framework.png?raw=true)
 
 1. HTTP component: **cinatra**
 
