@@ -8,7 +8,7 @@
 
 Feather is a rapid modern C++ web development framework, written in C++17. The goal of Feather is to develop web applications quickly, with a low barrier to entry.
 
-Here is a presentation by Yu Qi on Feather from CppCon 2018: https://www.youtube.com/watch?v=DoXXCZJVNeo.
+Here is a presentation by [Yu Qi](https://github.com/qicosmos) on Feather from CppCon 2018: https://www.youtube.com/watch?v=DoXXCZJVNeo.
 
 **Features of Feather**
 
