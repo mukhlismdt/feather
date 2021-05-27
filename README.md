@@ -106,9 +106,9 @@ cmake ..
 make -j
 ```
 
-# Example
+## Example
 
-## Hello world
+#### Hello world
 
 	#include "feather.h"
 	
@@ -220,3 +220,5 @@ How do we deal with **gzip**? Don't worry，we support it already. If you want t
 
 The framework will compress the response string for you. Comfy and sweet. :)
 
+## Benchmark
+![](https://github.com/qicosmos/feather/blob/master/qps.png?raw=true)
