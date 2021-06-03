@@ -1,17 +1,14 @@
 # Feather
 
-*Read this in other languages: [English](https://github.com/qicosmos/feather/blob/master/README.en.md), [简体中文](https://github.com/qicosmos/feather/blob/master/README.md)*
-
 * [Introduction](#Introduction)
 * [How to build](#Build)
 * [Quick example](#Example)
-* [Contact us](#Contact)
 
 # Introduction
 
 Feather is a rapid modern C++ web development framework, written in C++17. The goal of Feather is to develop web applications quickly, with a low barrier to entry.
 
-Here is a presentation by Yu Qi on Feather from CppCon 2018: https://www.youtube.com/watch?v=DoXXCZJVNeo.
+Here is a presentation by [Yu Qi](https://github.com/qicosmos) on Feather from CppCon 2018: https://www.youtube.com/watch?v=DoXXCZJVNeo.
 
 **Features of Feather**
 
@@ -23,7 +20,7 @@ Here is a presentation by Yu Qi on Feather from CppCon 2018: https://www.youtube
 
 **Components of Feather**
 
-Feather is made of three core components:
+![](https://github.com/qicosmos/feather/blob/master/framework.png?raw=true)
 
 1. HTTP component: **cinatra**
 
@@ -109,9 +106,9 @@ cmake ..
 make -j
 ```
 
-# Example
+## Example
 
-## Hello world
+#### Hello world
 
 	#include "feather.h"
 	
@@ -221,42 +218,7 @@ How do we deal with **gzip**? Don't worry，we support it already. If you want t
 
 	res.set_status_and_content(status_type::ok, "hello world", res_content_type::none, content_encoding::gzip);
 
-The framework will compress the response string for you. Comfortable and sweet, right? :)
+The framework will compress the response string for you. Comfy and sweet. :)
 
-I think you now know enough about requests and responses. If you want to know more, please ask me.
-
-## File upload/download
-
-TODO
-
-## Sessions and cookies
-
-TODO
-
-## AOP
-
-TODO
-
-## Cache 
-
-TODO
-
-## Configuration
-
-TODO
-
-## ORM
-
-TODO
-
-## Render
-
-TODO
-
-## Real example
-
-TODO
-
-# Contact
-
-TODO
+## Benchmark
+![](https://github.com/qicosmos/feather/blob/master/qps.png?raw=true) 
