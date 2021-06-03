@@ -1,14 +1,10 @@
-# Feather
+This README is just a fast quick start document. You can find more detailed documentation at http://purecpp.org
 
-* [Introduction](#Introduction)
-* [How to build](#Build)
-* [Quick example](#Example)
 
-# Introduction
 
-Feather is a rapid modern C++ web development framework, written in C++17. The goal of Feather is to develop web applications quickly, with a low barrier to entry.
+# What is Feather?
 
-Here is a presentation by [Yu Qi](https://github.com/qicosmos) on Feather from CppCon 2018: https://youtu.be/DoXXCZJVNeo
+Feather is a rapid modern C++ web development framework, written in C++17. The goal of Feather is to develop web applications quickly, with a low barrier to entry. Here is a presentation by [Yu Qi](https://github.com/qicosmos) on Feather from CppCon 2018: https://youtu.be/DoXXCZJVNeo
 
 **Features of Feather**
 
