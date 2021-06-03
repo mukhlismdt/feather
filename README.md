@@ -3,7 +3,6 @@
 * [Introduction](#Introduction)
 * [How to build](#Build)
 * [Quick example](#Example)
-* [Benchmark] (#Benchmark)
 
 # Introduction
 
