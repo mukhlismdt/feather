@@ -3,7 +3,7 @@
 * [Introduction](#Introduction)
 * [How to build](#Build)
 * [Quick example](#Example)
-* [Benchmark] (#Benchmark)
+* [Benchmark](# Benchmark)
 
 # Introduction
 
@@ -221,5 +221,5 @@ How do we deal with **gzip**? Don't worry，we support it already. If you want t
 
 The framework will compress the response string for you. Comfy and sweet. :)
 
-## Benchmark
+# Benchmark
 ![](https://github.com/qicosmos/feather/blob/master/qps.png?raw=true)
