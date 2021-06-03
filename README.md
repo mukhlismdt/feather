@@ -1,10 +1,12 @@
 # Feather
 
-* [Introduction](#Introduction)
+* [Pengenalan](#Pengenalan)
 * [How to build](#Build)
-* [Quick example](#Example)
+* [Contoh](#Contoh)
 
-# Introduction
+* Read in [English](https://github.com/mukhlismdt/feather/blob/master/README.en.md), [简体中文](https://github.com/qicosmos/feather/blob/master/README.md)*
+
+# Pengenalan
 
 Feather is a rapid modern C++ web development framework, written in C++17. The goal of Feather is to develop web applications quickly, with a low barrier to entry.
 
